@@ -1,5 +1,5 @@
 Algoritmo do_while
-	definir a,b,c,d,e,f como reales
+	definir a,b,c,d,e, como reales
 	b<-0
 	c<-1
 	escribir "cantidad de estudiantes"
